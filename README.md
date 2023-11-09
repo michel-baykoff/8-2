@@ -1,6 +1,24 @@
-## Дополнительные материалы для выполнения домашних заданий из блока "Введение в DevOps"
+## "Что такое DevOps. СI/СD" -- Михаил Байков
+
+### Задание 1
+
+![Build Docker project code ](img/1.png)
+![Build result ](img/2.png)
+
+---
+
+### Задание 2
+
+![Build Docker pipeline](img/3.png)
+![Build result](img/2.png)
 
 
-- [Дополнительный материал для занятия "8.2. Что такое DevOps. СI/СD"](CICD/8.2-hw.md)
+---
 
-- [Дополнительный материал для занятия "8.3. GitLab"](https://github.com/netology-code/sdvps-materials/tree/main/gitlab)
+### Задание 3
+
+![Build binary pipeline](img/5.png)
+![Build result](img/6.png)
+
+
+---
